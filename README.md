@@ -75,8 +75,7 @@ npm start
 ![Signup Page](SinUpPage.png)
 
 🔐 Login Page
-![Login Page](frontend/public/screenshots/login.png)
+![Login Page](LoginPage.png)
 
-📂 Empty State (No resources)
-![No Resources](frontend/public/screenshots/no-resources.png)
+
 
