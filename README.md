@@ -40,3 +40,24 @@ cd backend
 npm install
 ```
 ###Create .env in backend/ with the following (example):
+```bash
+MONGO_URI=mongodb+srv://<user>:<pass>@cluster0.mongodb.net/iiitk-resources
+JWT_SECRET=some_long_secret
+PORT=5001
+```
+###Start backend server:
+```bash
+npm run dev
+# or
+npm start
+```
+###Frontend setup
+```bash
+cd ../frontend
+npm install
+```
+###Start frontend:
+```bash
+npm start
+```
+
