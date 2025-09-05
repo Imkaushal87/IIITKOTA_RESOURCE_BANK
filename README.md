@@ -63,7 +63,7 @@ npm start
 ## 🖼 Screenshots
 
 🏠 Home Page
-![Home Page](frontend/public/screenshots/home.png)
+![Home Page]()
 
 📤 Upload Form
 ![Upload Form](frontend/public/screenshots/upload-form.png)
