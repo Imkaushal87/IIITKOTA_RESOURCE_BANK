@@ -38,6 +38,5 @@ This project helps students prepare effectively by making study resources availa
 ```bash
 cd backend
 npm install
-
----
+```
 ###Create .env in backend/ with the following (example):
