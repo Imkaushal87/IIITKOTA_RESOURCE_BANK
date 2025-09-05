@@ -66,10 +66,11 @@ npm start
 ![Home Page](HomePage.png)
 
 📤 Upload Form
-![Upload Form](frontend/public/screenshots/upload-form.png)
+![Upload Form](UploadPage.png)
 
 ✅ Upload Success
 ![Upload Success](frontend/public/screenshots/upload-success.png)
+
  🔑 Signup Page
 ![Signup Page](frontend/public/screenshots/signup.png)
 
