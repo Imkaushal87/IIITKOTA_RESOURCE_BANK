@@ -34,30 +34,48 @@ This project helps students prepare effectively by making study resources availa
 
 ## 🚀 Quick start (development)
 
-### Backend setup
+Backend setup
 ```bash
 cd backend
 npm install
 ```
-###Create .env in backend/ with the following (example):
+Create .env in backend/ with the following (example):
 ```bash
 MONGO_URI=mongodb+srv://<user>:<pass>@cluster0.mongodb.net/iiitk-resources
 JWT_SECRET=some_long_secret
 PORT=5001
 ```
-###Start backend server:
+Start backend server:
 ```bash
 npm run dev
 # or
 npm start
 ```
-###Frontend setup
+Frontend setup
 ```bash
 cd ../frontend
 npm install
 ```
-###Start frontend:
+Start frontend:
 ```bash
 npm start
 ```
+## 🖼 Screenshots
+
+🏠 Home Page
+![Home Page](frontend/public/screenshots/home.png)
+
+📤 Upload Form
+![Upload Form](frontend/public/screenshots/upload-form.png)
+
+✅ Upload Success
+![Upload Success](frontend/public/screenshots/upload-success.png)
+ 🔑 Signup Page
+![Signup Page](frontend/public/screenshots/signup.png)
+
+🔐 Login Page
+![Login Page](frontend/public/screenshots/login.png)
+
+📂 Empty State (No resources)
+![No Resources](frontend/public/screenshots/no-resources.png)
 
