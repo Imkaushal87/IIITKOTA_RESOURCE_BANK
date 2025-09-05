@@ -69,7 +69,7 @@ npm start
 ![Upload Form](UploadPage.png)
 
 ✅ Upload Success
-![Upload Success](frontend/public/screenshots/upload-success.png)
+![Upload Success](UploadPageAfterFile.png)
 
  🔑 Signup Page
 ![Signup Page](frontend/public/screenshots/signup.png)
