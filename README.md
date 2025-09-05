@@ -72,7 +72,7 @@ npm start
 ![Upload Success](UploadPageAfterFile.png)
 
  🔑 Signup Page
-![Signup Page](frontend/public/screenshots/signup.png)
+![Signup Page](SinUpPage.png)
 
 🔐 Login Page
 ![Login Page](frontend/public/screenshots/login.png)
